@@ -1,5 +1,5 @@
 +++
-description = "Ananke: The last theme you'll ever need. Maybe?!"
+description = "Ananke: The last theme you'll ever need!"
 featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 title = "A Hugo Demo"
 +++
